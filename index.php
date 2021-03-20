@@ -20,7 +20,7 @@
 				$msgClass = 'alert-danger';
 			} else {
 				// Passed
-				$toEmail = 'akinloludavid27@yahoo.com';
+				$toEmail = 'akinloludavid2727@gmail.com';
 				$subject = 'Contact Request From '.$name;
 				$body = '<h2>Contact Request</h2>
 					<h4>Name</h4><p>'.$name.'</p>
